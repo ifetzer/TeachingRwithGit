@@ -1,0 +1,265 @@
+%PDF-1.1
+%Å‚Å„ÅœÅ”
+1 0 obj
+<<
+/CreationDate (D:20080611122652)
+/ModDate (D:20080611122652)
+/Title (R Graphics Output)
+/Producer (R 2.2.1)
+/Creator (R)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /ZapfDingbats
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [
+]
+/Count 0
+/MediaBox [0 0 432 432]
+>>
+endobj
+4 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F1 5 0 R /F2 7 0 R /F3 8 0 R /F4 9 0 R /F5 10 0 R /F6 11 0 R >>
+/ExtGState << >>
+>>
+endobj
+6 0 obj
+<<
+/Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+/Differences [ 45/minus 96/quoteleft
+144/dotlessi /grave /acute /circumflex /tilde /macron /breve /dotaccent
+/dieresis /.notdef /ring /cedilla /.notdef /hungarumlaut /ogonek /caron /space]
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica
+/Encoding 6 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-Bold
+/Encoding 6 0 R
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Helvetica-Oblique
+/Encoding 6 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Helvetica-BoldOblique
+/Encoding 6 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F6
+/BaseFont /Symbol
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000020 00000 n 
+0000000162 00000 n 
+0000000294 00000 n 
+0000000371 00000 n 
+0000000211 00000 n 
+0000000505 00000 n 
+0000000762 00000 n 
+0000000858 00000 n 
+0000000959 00000 n 
+0000001063 00000 n 
+0000001172 00000 n 
+trailer
+<<
+/Size 12
+/Info 1 0 R
+/Root 2 0 R
+>>
+startxref
+1250
+%%EOF
+2.00 369.86 47.52 Tm (7) Tj
+ET
+Q q
+0.000 0.000 0.000 RG
+0.75 w
+[] 0 d
+1 J
+1 j
+10.00 M
+307.56 365.76 87.00 -43.20 re S
+0.302 0.302 0.302 rg
+318.36 354.96 8.64 -7.20 re B
+0.902 0.902 0.902 rg
+318.36 340.56 8.64 -7.20 re B
+BT
+0.000 0.000 0.000 rg
+/F2 1 Tf 12.00 0.00 -0.00 12.00 337.80 347.05 Tm (Method A) Tj
+/F2 1 Tf 12.00 0.00 -0.00 12.00 337.80 332.65 Tm (Method B) Tj
+/F2 1 Tf 12.00 0.00 -0.00 12.00 208.06 18.72 Tm (Data set) Tj
+/F2 1 Tf 0.00 12.00 -12.00 0.00 12.96 163.19 Tm (Elapsed time \(millisec\)) Tj
+ET
+Q q
+0.000 0.000 0.000 RG
+0.75 w
+[] 0 d
+1 J
+1 j
+10.00 M
+59.04 76.41 m 59.04 372.47 l S
+59.04 76.41 m 51.84 76.41 l S
+59.04 125.75 m 51.84 125.75 l S
+59.04 175.09 m 51.84 175.09 l S
+59.04 224.44 m 51.84 224.44 l S
+59.04 273.78 m 51.84 273.78 l S
+59.04 323.12 m 51.84 323.12 l S
+59.04 372.47 m 51.84 372.47 l S
+BT
+0.000 0.000 0.000 rg
+/F2 1 Tf 0.00 12.00 -12.00 0.00 41.76 73.07 Tm (0) Tj
+/F2 1 Tf 0.00 12.00 -12.00 0.00 41.76 119.08 Tm (10) Tj
+/F2 1 Tf 0.00 12.00 -12.00 0.00 41.76 168.42 Tm (20) Tj
+/F2 1 Tf 0.00 12.00 -12.00 0.00 41.76 217.76 Tm (30) Tj
+/F2 1 Tf 0.00 12.00 -12.00 0.00 41.76 267.11 Tm (40) Tj
+/F2 1 Tf 0.00 12.00 -12.00 0.00 41.76 316.45 Tm (50) Tj
+/F2 1 Tf 0.00 12.00 -12.00 0.00 41.76 365.79 Tm (60) Tj
+ET
+Q
+endstream
+endobj
+8 0 obj
+2399
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [
+6 0 R
+]
+/Count 1
+/MediaBox [0 0 432 432]
+>>
+endobj
+4 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F1 5 0 R /F2 10 0 R /F3 11 0 R /F4 12 0 R /F5 13 0 R /F6 14 0 R >>
+/ExtGState << >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+/Differences [ 45/minus 96/quoteleft
+144/dotlessi /grave /acute /circumflex /tilde /macron /breve /dotaccent
+/dieresis /.notdef /ring /cedilla /.notdef /hungarumlaut /ogonek /caron /space]
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica
+/Encoding 9 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-Bold
+/Encoding 9 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Helvetica-Oblique
+/Encoding 9 0 R
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Helvetica-BoldOblique
+/Encoding 9 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F6
+/BaseFont /Symbol
+>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000020 00000 n 
+0000000162 00000 n 
+0000002846 00000 n 
+0000002929 00000 n 
+0000000211 00000 n 
+0000000294 00000 n 
+0000000374 00000 n 
+0000002826 00000 n 
+0000003066 00000 n 
+0000003323 00000 n 
+0000003420 00000 n 
+0000003522 00000 n 
+0000003627 00000 n 
+0000003736 00000 n 
+trailer
+<<
+/Size 15
+/Info 1 0 R
+/Root 2 0 R
+>>
+startxref
+3814
+%%EOF
